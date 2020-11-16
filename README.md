@@ -1,4 +1,4 @@
 # BlastoisePokeBattle
-Quick project to help teach myself Unity and turn-based game creation.
+Quick project to help teach myself Unity and turn-based game development.
 
-Did not create my own sprites, and learned a lot from online tutorials.
+Cannot take full credit for the game as I pulled sprites and sounds from online, and used some ideas from online tutorials.
